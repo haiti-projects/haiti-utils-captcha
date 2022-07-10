@@ -6,7 +6,7 @@
 
     <groupId>dev.struchkov.haiti.utils</groupId>
     <artifactId>haiti-utils-captcha</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <name>Haiti Captcha</name>
     <description>A quick and clean way to add a simple captcha to your app</description>
